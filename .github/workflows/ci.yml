@@ -27,4 +27,4 @@ jobs:
 
       - name: Push Image
         run: |
-          docker push YOUR_DOCKER_USERNAME/demo-app:latest
+          docker push ihtgoot/demo-app:latest
