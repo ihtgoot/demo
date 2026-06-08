@@ -23,7 +23,7 @@ jobs:
 
       - name: Build Image
         run: |
-          docker build -t YOUR_DOCKER_USERNAME/demo-app:latest .
+          docker build -t ihtgoot/demo-app:latest .
 
       - name: Push Image
         run: |
